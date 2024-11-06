@@ -21,7 +21,7 @@ struct SwiftUIView: View {
                     .foregroundStyle(.white)
                     .padding(.bottom, 6)
                 
-                Text("Cupertino, CA")
+                Text("London,UK")
                     .font(.system(size: 32, weight: .semibold, design: .monospaced))
                     .foregroundStyle(.white)
                 
